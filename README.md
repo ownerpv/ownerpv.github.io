@@ -57,4 +57,3 @@ This is an **informational page** about the project. Please make sure to **credi
 <p align="center">
   💜 Developed by **[OwnerPC](https://t.me/ownerpc)**
 </p>
-
